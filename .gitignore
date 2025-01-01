@@ -1,0 +1,56 @@
+# Frontend
+/frontend/node_modules
+/frontend/.next
+/frontend/.turbo
+/frontend/build
+/frontend/dist
+/frontend/out
+/frontend/.env*
+/frontend/*.log
+/frontend/.vercel
+/frontend/*.tsbuildinfo
+/frontend/next-env.d.ts
+
+# Backend
+/backend/__pycache__/
+/backend/*/__pycache__/
+/backend/*/*/__pycache__/
+/backend/venv/
+/backend/.env
+/backend/*.pyc
+/backend/*.pyo
+/backend/*.pyd
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+*.swo
+/frontend/.next
+/frontend/.turbo
+/frontend/build
+/frontend/dist
+/frontend/out
+/frontend/.env*
+/frontend/*.log
+/frontend/.vercel
+/frontend/*.tsbuildinfo
+/frontend/next-env.d.ts
+
+# Backend
+/backend/__pycache__/
+/backend/*/__pycache__/
+/backend/*/*/__pycache__/
+/backend/venv/
+/backend/.env
+/backend/*.pyc
+/backend/*.pyo
+/backend/*.pyd
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+*.swo
